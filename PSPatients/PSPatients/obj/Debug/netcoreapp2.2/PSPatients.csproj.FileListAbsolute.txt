@@ -1,0 +1,182 @@
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.deps.json
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.runtimeconfig.json
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.runtimeconfig.dev.json
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.dll
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.pdb
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.Views.dll
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.Views.pdb
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.csprojAssemblyReference.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorAssemblyInfo.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorAssemblyInfo.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.AssemblyInfoInputs.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.AssemblyInfo.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.TagHelpers.input.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.TagHelpers.output.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorCoreGenerate.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorTargetAssemblyInfo.cache
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorTargetAssemblyInfo.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.Views.pdb
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.dll
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.pdb
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.csproj.CopyComplete
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem 2\MobileApp\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.deps.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.runtimeconfig.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.runtimeconfig.dev.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.dll
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.Views.dll
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.Views.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.csprojAssemblyReference.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorAssemblyInfo.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorAssemblyInfo.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.AssemblyInfoInputs.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.AssemblyInfo.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.TagHelpers.input.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.TagHelpers.output.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorCoreGenerate.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorTargetAssemblyInfo.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorTargetAssemblyInfo.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.Views.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.dll
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\Assignment1\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.csproj.CopyComplete
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.deps.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.runtimeconfig.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.runtimeconfig.dev.json
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.dll
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.Views.dll
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\bin\Debug\netcoreapp2.2\PSPatients.Views.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.csprojAssemblyReference.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorAssemblyInfo.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorAssemblyInfo.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.AssemblyInfoInputs.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.AssemblyInfo.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.TagHelpers.input.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.TagHelpers.output.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorCoreGenerate.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSConcentrationUnit\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSCountry\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDiagnosisCategory\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSDispensingUnit\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedicationType\Index.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorTargetAssemblyInfo.cache
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.RazorTargetAssemblyInfo.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.Views.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.dll
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.pdb
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\PSPatients.csproj.CopyComplete
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedication\Create.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedication\Delete.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedication\Details.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedication\Edit.cshtml.g.cs
+D:\Conestoga\CAD\Sem2\MicrosoftWeb\PSPatients\PSPatients\obj\Debug\netcoreapp2.2\Razor\Views\PSMedication\Index.cshtml.g.cs
